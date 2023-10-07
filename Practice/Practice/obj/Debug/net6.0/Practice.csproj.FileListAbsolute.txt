@@ -1,0 +1,15 @@
+/Users/nisa.nn/Desktop/review/Practice/Practice/bin/Debug/net6.0/Practice
+/Users/nisa.nn/Desktop/review/Practice/Practice/bin/Debug/net6.0/Practice.deps.json
+/Users/nisa.nn/Desktop/review/Practice/Practice/bin/Debug/net6.0/Practice.runtimeconfig.json
+/Users/nisa.nn/Desktop/review/Practice/Practice/bin/Debug/net6.0/Practice.dll
+/Users/nisa.nn/Desktop/review/Practice/Practice/bin/Debug/net6.0/Practice.pdb
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.csproj.AssemblyReference.cache
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.AssemblyInfoInputs.cache
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.AssemblyInfo.cs
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.csproj.CoreCompileInputs.cache
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.dll
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/refint/Practice.dll
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.pdb
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/Practice.genruntimeconfig.cache
+/Users/nisa.nn/Desktop/review/Practice/Practice/obj/Debug/net6.0/ref/Practice.dll
